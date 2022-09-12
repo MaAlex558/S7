@@ -7,3 +7,6 @@ So difficult to learn
 Добавляем изменения в Vision Code!
 
 > Залоговок
+1.
+2.
+3.
